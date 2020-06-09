@@ -1,0 +1,4 @@
+*.mat
+*.pyc
+__pycache__/
+*.hdf5
